@@ -318,7 +318,7 @@ printf "GET <hash>\n" | nc localhost 9000 | hexdump -C
 1.  naprogrmaujte upload dát na server, môže byť aj hardwritnute v kóde, BONUS bod za implemntáciu vstupu z STDIN 
 2.  naprogramujte upload externých dát zo súboru na disku (súbor priložte do repozitára), fopen()...
 3.  naprogramujte vypísanie zoznam súborov uložených na serveri  
-4.  naprogramujte stiahnutie ľubovelného súboru zo serveru (môže byť hardliknute, ale musí byť buď súbor ktorý klient nahrá na server pres stahovanim alebo niektorý z demo súborov) a jeho uloženie ako nového súboru na strane klienta v tom istom adresari ako je ulozeny klient **názov stiahnutého súbora bude začínať prefixom down_** , BONUS bod ak sa súbor dá zvoliť v klientskej aplikácií
+4.  doprogramujtee a rozsirte stiahnutie ľubovelného súboru zo serveru podobne ako vzor (môže byť hardliknute, ale musí byť buď súbor ktorý klient nahrá na server pres stahovanim alebo niektorý z demo súborov) a jeho uloženie ako nového súboru na strane klienta v tom istom adresari ako je ulozeny klient **názov stiahnutého súbora bude začínať prefixom down_** , BONUS bod ak sa súbor dá zvoliť v klientskej aplikácií
 
 
 
