@@ -12,3 +12,4 @@
 /home/donino/mydok-tpdak/dok_teaching/zadanie-sietovy-protokol-2026/client_vzory/client_hashstoreCS/obj/Debug/net8.0/client_hashstoreCS.pdb
 /home/donino/mydok-tpdak/dok_teaching/zadanie-sietovy-protokol-2026/client_vzory/client_hashstoreCS/obj/Debug/net8.0/client_hashstoreCS.genruntimeconfig.cache
 /home/donino/mydok-tpdak/dok_teaching/zadanie-sietovy-protokol-2026/client_vzory/client_hashstoreCS/obj/Debug/net8.0/ref/client_hashstoreCS.dll
+/home/donino/mydok-tpdak/dok_teaching/zadanie-sietovy-protokol-2026/client_vzory/client_hashstoreCS/obj/Debug/net8.0/client_hashstoreCS.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("client_hashstoreCS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c17ccfb17523dd112750f723c04e0cddcfd23eea")]
 [assembly: System.Reflection.AssemblyProductAttribute("client_hashstoreCS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("client_hashstoreCS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
