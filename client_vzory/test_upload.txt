@@ -1,0 +1,6 @@
+--- HASHSTORE TEST FILE ---
+ID: 2026-04-07
+Content: Toto je testovaci subor pre klientsku aplikaciu.
+Weather: Momentalne slnecno 
+Status: READY
+--- END OF DATA ---
